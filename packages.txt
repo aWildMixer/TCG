@@ -1,0 +1,13 @@
+these packages must be installed on the host for the bot to RUN
+
+you need to install them with the following command:
+pip install {packages}
+THE FOLLOWING PACKAGES MUST BE INSTALLED FOR IT TO RUN: 
+discord.py
+python-dotenv
+
+
+tl;dr 
+pip install discord.py python-dotenv 
+
+and it'll work, .....probably
